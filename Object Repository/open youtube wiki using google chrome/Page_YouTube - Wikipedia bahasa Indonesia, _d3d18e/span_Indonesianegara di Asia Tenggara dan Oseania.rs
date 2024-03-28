@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Indonesianegara di Asia Tenggara dan Oseania</name>
+   <tag></tag>
+   <elementGuidId>05397d40-7241-46e8-88fb-26588f1d0b85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='cdx-menu-item-1']/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cdx-menu-item__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Indonesia negara di Asia Tenggara dan Oseania&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d941d7a-6b61-49d9-a9ca-35504097ea89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdx-menu-item__text</value>
+      <webElementGuid>a65c8f99-0118-4519-9769-9b2e51f654dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indonesianegara di Asia Tenggara dan Oseania</value>
+      <webElementGuid>f7cff1fa-6008-4f0e-a4c8-6a621958be68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdx-menu-item-1&quot;)/a[@class=&quot;cdx-menu-item__content&quot;]/span[@class=&quot;cdx-menu-item__text&quot;]</value>
+      <webElementGuid>9749ce72-79cf-4f4a-89f7-9f306ff8a71e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='cdx-menu-item-1']/a/span[2]</value>
+      <webElementGuid>3f84f570-7101-470f-a5a1-4280203771cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencarian'])[1]/following::span[4]</value>
+      <webElementGuid>1740e10f-b395-4153-86db-5c2f2388ef91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::span[7]</value>
+      <webElementGuid>3e5b384c-ea9f-455b-81e0-dabcfab6ba69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span[2]</value>
+      <webElementGuid>47d65b4b-f761-4da6-a8de-fc497158f8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Indonesianegara di Asia Tenggara dan Oseania' or . = 'Indonesianegara di Asia Tenggara dan Oseania')]</value>
+      <webElementGuid>13aba3b2-901f-408c-b952-728c03fbffb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="new suit google youtube" time="8.003" tests="1" failures="0" errors="0">
+   <testsuite name="new suit google youtube" tests="1" failures="0" errors="0" time="8.003" skipped="0" timestamp="28-03-2024T16:06:52" hostname="1910 - LAPTOP-0K3QVKUD" id="Test Suites/new suit google youtube">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1910\\git\\test_katalon_again\\Reports\\20240328_160642\\new suit google youtube\\20240328_160643"/>
+         <property name="logFiles" value="C:\\Users\\1910\\git\\test_katalon_again\\Reports\\20240328_160642\\new suit google youtube\\20240328_160643\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="1910 - LAPTOP-0K3QVKUD"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.10.191"/>
+         <property name="sessionId" value="13523fbf6c6c05c767b98804330012c4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/test katalon againn/test katalon google youtube again" time="7.722" classname="Test Cases/test katalon againn/test katalon google youtube again" status="PASSED">
+         <system-out><![CDATA[28-03-2024T16:06:53 - [TEST_CASE][PASSED] - Test Cases/test katalon againn/test katalon google youtube again: Test Cases/test katalon againn/test katalon google youtube again
+
+28-03-2024T16:06:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-03-2024T16:06:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-03-2024T16:06:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-03-2024T16:06:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-03-2024T16:06:56 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+28-03-2024T16:06:58 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+28-03-2024T16:06:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/open youtube wiki using google chrome/Page_Google/textarea_Login_q"), "youtube"): Text 'youtube' is set on object 'Object Repository/open youtube wiki using google chrome/Page_Google/textarea_Login_q'
+
+28-03-2024T16:06:59 - [MESSAGE][PASSED] - Text 'youtube' is set on object 'Object Repository/open youtube wiki using google chrome/Page_Google/textarea_Login_q'
+
+28-03-2024T16:06:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/open youtube wiki using google chrome/Page_Google/span_YouTube")): Object: 'Object Repository/open youtube wiki using google chrome/Page_Google/span_YouTube' is clicked on
+
+28-03-2024T16:07:00 - [MESSAGE][PASSED] - Object: 'Object Repository/open youtube wiki using google chrome/Page_Google/span_YouTube' is clicked on
+
+28-03-2024T16:07:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-03-2024T16:07:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[28-03-2024T16:06:52 - [TEST_SUITE][PASSED] - new suit google youtube: Test Cases/test katalon againn/test katalon google youtube again]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

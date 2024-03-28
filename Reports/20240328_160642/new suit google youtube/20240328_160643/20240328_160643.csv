@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+new suit google youtube,Chrome 123.0.0.0,,,28-03-2024 16:06:52,28-03-2024 16:07:00,8.003s,PASSED
+,,,,,,,
+Test Cases/test katalon againn/test katalon google youtube again,Chrome 123.0.0.0,,,28-03-2024 16:06:53,28-03-2024 16:07:00,7.722s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,28-03-2024 16:06:53,28-03-2024 16:06:56,2.528s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 123.0.0.0,,,28-03-2024 16:06:56,28-03-2024 16:06:58,2.732s,PASSED
+"setText(findTestObject(""Object Repository/open youtube wiki using google chrome/Page_Google/textarea_Login_q""), ""youtube"")",Chrome 123.0.0.0,,,28-03-2024 16:06:58,28-03-2024 16:06:59,0.934s,PASSED
+"click(findTestObject(""Object Repository/open youtube wiki using google chrome/Page_Google/span_YouTube""))",Chrome 123.0.0.0,,,28-03-2024 16:06:59,28-03-2024 16:07:00,0.826s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,28-03-2024 16:07:00,28-03-2024 16:07:00,0.330s,PASSED

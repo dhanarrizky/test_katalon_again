@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/open youtube wiki using google chrome/Page_youtube - Penelusuran Google/h3_YouTube - Wikipedia bahasa Indonesia, en_ca4439",
+      "brokenLocator": "//div[@id\u003d\u0027arc-srp_110\u0027]/div/div[5]/div/div/div/div/div/span/a/h3",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Wikipedia\u0027])[1]/preceding::h3[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/open youtube wiki using google chrome/Page_youtube - Penelusuran Google/h3_YouTube - Wikipedia bahasa Indonesia, en_ca4439_neighbor.png"
+    }
+  ]
+}
